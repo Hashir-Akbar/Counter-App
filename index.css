@@ -8,7 +8,7 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
   text-align: center;
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
 }
 
@@ -22,7 +22,7 @@ body {
   border-radius: 5px;
 }
 .entry {
-  width: 50%;
+  width: 80%;
   margin: 1em auto;
 }
 h1 {
